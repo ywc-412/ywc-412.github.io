@@ -2,7 +2,7 @@
 layout: post
 title:  "SQLP를 준비하며"
 date:   2021-11-21
-categories: 데이터베이스 아키텍처
+categories: 데이터베이스
 ---
 #### SQLP를 준비하며,
 ###### SQLD 자격을 취득 후 SQLP를 목표로 공부를 하고있다.
