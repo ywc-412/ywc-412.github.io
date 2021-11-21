@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "SQLP를 준비하며"
 date:   2021-09-26
 categories: 데이터베이스 아키텍처
 ---
