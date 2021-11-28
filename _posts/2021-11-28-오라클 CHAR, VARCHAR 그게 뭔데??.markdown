@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CHAR, VARCHAR 도대체 그게 뭔데?"
-date:   2021-11-21
+date:   2021-11-28
 categories: 데이터베이스
 ---
 #### CHAR, VARCHAR 도대체 그게 뭔데?!?! 가변길이, 고정길이가 그래서 뭔데?!
